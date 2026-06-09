@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+PyPDF2
+starlette
